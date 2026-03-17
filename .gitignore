@@ -1,0 +1,22 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.idea/
+.vscode/
+
+# Logs and local env files
+*.log
+.env
+.env.*
+
+# Dependency and build output directories
+node_modules/
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
