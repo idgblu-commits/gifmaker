@@ -16,6 +16,7 @@ Desktop.ini
 node_modules/
 dist/
 build/
+recordings/
 
 # Python cache
 __pycache__/
